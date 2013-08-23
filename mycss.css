@@ -1,0 +1,42 @@
+<!-- Le styles -->
+
+<style type="text/css">
+
+
+
+table{
+word-wrap: break-word;
+width:100%;
+}
+table thead tr th 
+{	
+text-align:center;
+background-color:rgb(247,247,249);
+cursor: pointer;
+}
+
+
+
+</style>
+
+
+
+
+<style>
+
+
+
+
+#container11{
+
+                width:100%; 
+                padding:5px;
+            }
+
+#d2{
+	margin-left:10px;
+	margin-bottom:5px;
+}
+
+
+</style>
